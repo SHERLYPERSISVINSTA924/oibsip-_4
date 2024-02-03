@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+   
+}
+
+.login-container {
+    text-align: center;
+    border: 1px solid #1a507e;
+    padding: 20px;
+    width: 300px;
+    background-color:rgb(118, 106, 115);
+}
+
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
